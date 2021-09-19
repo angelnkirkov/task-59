@@ -35,5 +35,7 @@ html {
 @media only screen and (max-width: 600px) {
   .discounts {
     visibility: visible;
+    width: auto;
+    height: auto;
   }
 }
